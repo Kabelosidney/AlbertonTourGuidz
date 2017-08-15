@@ -7,12 +7,12 @@
     android:layout_height="match_parent"
     android:background="#3856"
     android:id="@+id/activity_home"
-    tools:context="com.mlab.kabelo.albertontourguid.HomeActivity">
+    tools:context="com.mlab.kabelo.albertontourguid.EntertainmentActivity">
 
     <android.support.v7.widget.RecyclerView
         android:layout_height="match_parent"
         android:layout_width="match_parent"
-        android:id="@+id/recyclerview">
+        android:id="@+id/recyclerview1">
 
     </android.support.v7.widget.RecyclerView>
 </RelativeLayout>

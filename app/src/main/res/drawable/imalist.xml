@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/fondoredondo"
+        android:width="50dp"
+        android:height="50dp"/>
+        <item android:drawable="@drawable/airplane1"
+            android:width="50dp"
+            android:height="50dp"/>
+
+
+
+</layer-list>
